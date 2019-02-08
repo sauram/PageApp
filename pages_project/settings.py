@@ -25,7 +25,7 @@ SECRET_KEY = 'midwp15&($8h305xo7c9v6ky1o!e=2*cpdrh9gf@01h6xlqvja'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
